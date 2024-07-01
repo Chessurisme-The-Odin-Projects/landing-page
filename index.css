@@ -64,7 +64,6 @@ body {
     }
 
     main {
-      padding: 16px;
       height: 100%;
       display: flex;
       flex-direction: row-reverse;
