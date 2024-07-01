@@ -11,7 +11,7 @@ To view the project live, visit: [landing-page](https://chessurisme-the-odin-pro
 1. Clone the Repository
 
   ```bash
-  git clone https://github.com/your-github-username/your-github-repo-name.git
+  git clone https://github.com/Chessurisme-The-Odin-Projects/landing-page.git
   ```
 
 2. Navigate to the Project Directory
